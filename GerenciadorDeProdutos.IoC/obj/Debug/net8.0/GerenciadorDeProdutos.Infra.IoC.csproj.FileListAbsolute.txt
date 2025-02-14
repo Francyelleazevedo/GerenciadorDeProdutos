@@ -17,3 +17,4 @@ C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\Gerencia
 C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.IoC\obj\Debug\net8.0\refint\GerenciadorDeProdutos.Infra.IoC.dll
 C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.IoC\obj\Debug\net8.0\GerenciadorDeProdutos.Infra.IoC.pdb
 C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.IoC\obj\Debug\net8.0\ref\GerenciadorDeProdutos.Infra.IoC.dll
+C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.IoC\obj\Debug\net8.0\GerenciadorDeProdutos.Infra.IoC.sourcelink.json

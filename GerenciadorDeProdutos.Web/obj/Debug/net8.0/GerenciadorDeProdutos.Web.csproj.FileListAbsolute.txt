@@ -277,3 +277,4 @@ C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\Gerencia
 C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Web\obj\Debug\net8.0\GerenciadorDeProdutos.Web.genruntimeconfig.cache
 C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Web\obj\Debug\net8.0\ref\GerenciadorDeProdutos.Web.dll
 C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Web\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Web\obj\Debug\net8.0\GerenciadorDeProdutos.Web.sourcelink.json

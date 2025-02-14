@@ -9,6 +9,10 @@ public class ApplicationDbContext(DbContextOptions<ApplicationDbContext> options
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+
         base.OnModelCreating(modelBuilder);
+        modelBuilder.Entity<Produto>()
+            .Property(p => p.Preco)
+            .HasPrecision(18, 2);
     }
 }

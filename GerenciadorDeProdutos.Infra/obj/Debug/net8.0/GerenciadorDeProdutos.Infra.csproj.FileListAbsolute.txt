@@ -17,3 +17,4 @@ C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\Gerencia
 C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Infra\obj\Debug\net8.0\GerenciadorDeProdutos.Infra.pdb
 C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Infra\obj\Debug\net8.0\GerenciadorDeProdutos.Infra.genruntimeconfig.cache
 C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Infra\obj\Debug\net8.0\ref\GerenciadorDeProdutos.Infra.dll
+C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Infra\obj\Debug\net8.0\GerenciadorDeProdutos.Infra.sourcelink.json

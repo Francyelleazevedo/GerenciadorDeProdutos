@@ -38,6 +38,7 @@ namespace GerenciadorDeProdutos.Infra.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<decimal>("Preco")
+                        .HasPrecision(18, 2)
                         .HasColumnType("decimal(18,2)");
 
                     b.Property<int>("QuantidadeEstoque")

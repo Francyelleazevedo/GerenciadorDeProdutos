@@ -9,3 +9,4 @@ C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\Gerencia
 C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Do\obj\Debug\net8.0\refint\GerenciadorDeProdutos.Domain.dll
 C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Do\obj\Debug\net8.0\GerenciadorDeProdutos.Domain.pdb
 C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Do\obj\Debug\net8.0\ref\GerenciadorDeProdutos.Domain.dll
+C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Do\obj\Debug\net8.0\GerenciadorDeProdutos.Domain.sourcelink.json

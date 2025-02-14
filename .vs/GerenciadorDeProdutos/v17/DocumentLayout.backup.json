@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E26FEA6-557C-42D3-AD52-8035938CCA9A}|GerenciadorDeProdutos.Web\\GerenciadorDeProdutos.Web.csproj|c:\\users\\francyelle azevedo\\gerenciadordeprodutos\\gerenciadordeprodutos\\gerenciadordeprodutos.web\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E26FEA6-557C-42D3-AD52-8035938CCA9A}|GerenciadorDeProdutos.Web\\GerenciadorDeProdutos.Web.csproj|solutionrelative:gerenciadordeprodutos.web\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E26FEA6-557C-42D3-AD52-8035938CCA9A}|GerenciadorDeProdutos.Web\\GerenciadorDeProdutos.Web.csproj|c:\\users\\francyelle azevedo\\gerenciadordeprodutos\\gerenciadordeprodutos\\gerenciadordeprodutos.web\\views\\produto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E26FEA6-557C-42D3-AD52-8035938CCA9A}|GerenciadorDeProdutos.Web\\GerenciadorDeProdutos.Web.csproj|solutionrelative:gerenciadordeprodutos.web\\views\\produto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24770805-36F1-44B9-93E4-BDA7F1901302}|GerenciadorDeProdutos.Infra\\GerenciadorDeProdutos.Infra.csproj|c:\\users\\francyelle azevedo\\gerenciadordeprodutos\\gerenciadordeprodutos\\gerenciadordeprodutos.infra\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24770805-36F1-44B9-93E4-BDA7F1901302}|GerenciadorDeProdutos.Infra\\GerenciadorDeProdutos.Infra.csproj|solutionrelative:gerenciadordeprodutos.infra\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E26FEA6-557C-42D3-AD52-8035938CCA9A}|GerenciadorDeProdutos.Web\\GerenciadorDeProdutos.Web.csproj|c:\\users\\francyelle azevedo\\gerenciadordeprodutos\\gerenciadordeprodutos\\gerenciadordeprodutos.web\\views\\produto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E26FEA6-557C-42D3-AD52-8035938CCA9A}|GerenciadorDeProdutos.Web\\GerenciadorDeProdutos.Web.csproj|solutionrelative:gerenciadordeprodutos.web\\views\\produto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ACFCDF7F-A4DC-428A-ACD0-1C78FA1E9F55}|GerenciadorDeProdutos.Do\\GerenciadorDeProdutos.Domain.csproj|c:\\users\\francyelle azevedo\\gerenciadordeprodutos\\gerenciadordeprodutos\\gerenciadordeprodutos.do\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACFCDF7F-A4DC-428A-ACD0-1C78FA1E9F55}|GerenciadorDeProdutos.Do\\GerenciadorDeProdutos.Domain.csproj|solutionrelative:gerenciadordeprodutos.do\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E26FEA6-557C-42D3-AD52-8035938CCA9A}|GerenciadorDeProdutos.Web\\GerenciadorDeProdutos.Web.csproj|c:\\users\\francyelle azevedo\\gerenciadordeprodutos\\gerenciadordeprodutos\\gerenciadordeprodutos.web\\views\\produto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E26FEA6-557C-42D3-AD52-8035938CCA9A}|GerenciadorDeProdutos.Web\\GerenciadorDeProdutos.Web.csproj|solutionrelative:gerenciadordeprodutos.web\\views\\produto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7E26FEA6-557C-42D3-AD52-8035938CCA9A}|GerenciadorDeProdutos.Web\\GerenciadorDeProdutos.Web.csproj|c:\\users\\francyelle azevedo\\gerenciadordeprodutos\\gerenciadordeprodutos\\gerenciadordeprodutos.web\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E26FEA6-557C-42D3-AD52-8035938CCA9A}|GerenciadorDeProdutos.Web\\GerenciadorDeProdutos.Web.csproj|solutionrelative:gerenciadordeprodutos.web\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F232215A-A34D-4595-BA12-7F9F04A0F80C}|GerenciadorDeProdutos.Ap\\GerenciadorDeProdutos.Application.csproj|c:\\users\\francyelle azevedo\\gerenciadordeprodutos\\gerenciadordeprodutos\\gerenciadordeprodutos.ap\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F232215A-A34D-4595-BA12-7F9F04A0F80C}|GerenciadorDeProdutos.Ap\\GerenciadorDeProdutos.Application.csproj|solutionrelative:gerenciadordeprodutos.ap\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24770805-36F1-44B9-93E4-BDA7F1901302}|GerenciadorDeProdutos.Infra\\GerenciadorDeProdutos.Infra.csproj|c:\\users\\francyelle azevedo\\gerenciadordeprodutos\\gerenciadordeprodutos\\gerenciadordeprodutos.infra\\migrations\\20250214191430_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24770805-36F1-44B9-93E4-BDA7F1901302}|GerenciadorDeProdutos.Infra\\GerenciadorDeProdutos.Infra.csproj|solutionrelative:gerenciadordeprodutos.infra\\migrations\\20250214191430_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24770805-36F1-44B9-93E4-BDA7F1901302}|GerenciadorDeProdutos.Infra\\GerenciadorDeProdutos.Infra.csproj|c:\\users\\francyelle azevedo\\gerenciadordeprodutos\\gerenciadordeprodutos\\gerenciadordeprodutos.infra\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24770805-36F1-44B9-93E4-BDA7F1901302}|GerenciadorDeProdutos.Infra\\GerenciadorDeProdutos.Infra.csproj|solutionrelative:gerenciadordeprodutos.infra\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24770805-36F1-44B9-93E4-BDA7F1901302}|GerenciadorDeProdutos.Infra\\GerenciadorDeProdutos.Infra.csproj|c:\\users\\francyelle azevedo\\gerenciadordeprodutos\\gerenciadordeprodutos\\gerenciadordeprodutos.infra\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24770805-36F1-44B9-93E4-BDA7F1901302}|GerenciadorDeProdutos.Infra\\GerenciadorDeProdutos.Infra.csproj|solutionrelative:gerenciadordeprodutos.infra\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E26FEA6-557C-42D3-AD52-8035938CCA9A}|GerenciadorDeProdutos.Web\\GerenciadorDeProdutos.Web.csproj|c:\\users\\francyelle azevedo\\gerenciadordeprodutos\\gerenciadordeprodutos\\gerenciadordeprodutos.web\\models\\produtoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,14 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7E26FEA6-557C-42D3-AD52-8035938CCA9A}|GerenciadorDeProdutos.Web\\GerenciadorDeProdutos.Web.csproj|c:\\users\\francyelle azevedo\\gerenciadordeprodutos\\gerenciadordeprodutos\\gerenciadordeprodutos.web\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{7E26FEA6-557C-42D3-AD52-8035938CCA9A}|GerenciadorDeProdutos.Web\\GerenciadorDeProdutos.Web.csproj|solutionrelative:gerenciadordeprodutos.web\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F232215A-A34D-4595-BA12-7F9F04A0F80C}|GerenciadorDeProdutos.Ap\\GerenciadorDeProdutos.Application.csproj|c:\\users\\francyelle azevedo\\gerenciadordeprodutos\\gerenciadordeprodutos\\gerenciadordeprodutos.ap\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F232215A-A34D-4595-BA12-7F9F04A0F80C}|GerenciadorDeProdutos.Ap\\GerenciadorDeProdutos.Application.csproj|solutionrelative:gerenciadordeprodutos.ap\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E26FEA6-557C-42D3-AD52-8035938CCA9A}|GerenciadorDeProdutos.Web\\GerenciadorDeProdutos.Web.csproj|c:\\users\\francyelle azevedo\\gerenciadordeprodutos\\gerenciadordeprodutos\\gerenciadordeprodutos.web\\views\\produto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E26FEA6-557C-42D3-AD52-8035938CCA9A}|GerenciadorDeProdutos.Web\\GerenciadorDeProdutos.Web.csproj|solutionrelative:gerenciadordeprodutos.web\\views\\produto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E26FEA6-557C-42D3-AD52-8035938CCA9A}|GerenciadorDeProdutos.Web\\GerenciadorDeProdutos.Web.csproj|c:\\users\\francyelle azevedo\\gerenciadordeprodutos\\gerenciadordeprodutos\\gerenciadordeprodutos.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -107,16 +115,8 @@
       "RelativeMoniker": "D:0:0:{7E26FEA6-557C-42D3-AD52-8035938CCA9A}|GerenciadorDeProdutos.Web\\GerenciadorDeProdutos.Web.csproj|solutionrelative:gerenciadordeprodutos.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24770805-36F1-44B9-93E4-BDA7F1901302}|GerenciadorDeProdutos.Infra\\GerenciadorDeProdutos.Infra.csproj|c:\\users\\francyelle azevedo\\gerenciadordeprodutos\\gerenciadordeprodutos\\gerenciadordeprodutos.infra\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24770805-36F1-44B9-93E4-BDA7F1901302}|GerenciadorDeProdutos.Infra\\GerenciadorDeProdutos.Infra.csproj|solutionrelative:gerenciadordeprodutos.infra\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{24770805-36F1-44B9-93E4-BDA7F1901302}|GerenciadorDeProdutos.Infra\\GerenciadorDeProdutos.Infra.csproj|c:\\users\\francyelle azevedo\\gerenciadordeprodutos\\gerenciadordeprodutos\\gerenciadordeprodutos.infra\\exceptions\\infrastructureexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24770805-36F1-44B9-93E4-BDA7F1901302}|GerenciadorDeProdutos.Infra\\GerenciadorDeProdutos.Infra.csproj|solutionrelative:gerenciadordeprodutos.infra\\exceptions\\infrastructureexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24770805-36F1-44B9-93E4-BDA7F1901302}|GerenciadorDeProdutos.Infra\\GerenciadorDeProdutos.Infra.csproj|c:\\users\\francyelle azevedo\\gerenciadordeprodutos\\gerenciadordeprodutos\\gerenciadordeprodutos.infra\\migrations\\20250212175621_inicialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24770805-36F1-44B9-93E4-BDA7F1901302}|GerenciadorDeProdutos.Infra\\GerenciadorDeProdutos.Infra.csproj|solutionrelative:gerenciadordeprodutos.infra\\migrations\\20250212175621_inicialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -126,37 +126,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProdutoViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Web\\Models\\ProdutoViewModel.cs",
-              "RelativeDocumentMoniker": "GerenciadorDeProdutos.Web\\Models\\ProdutoViewModel.cs",
-              "ToolTip": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Web\\Models\\ProdutoViewModel.cs",
-              "RelativeToolTip": "GerenciadorDeProdutos.Web\\Models\\ProdutoViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T20:35:08.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "inputmask.js",
-              "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Web\\wwwroot\\js\\inputmask.js",
-              "RelativeDocumentMoniker": "GerenciadorDeProdutos.Web\\wwwroot\\js\\inputmask.js",
-              "ToolTip": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Web\\wwwroot\\js\\inputmask.js",
-              "RelativeToolTip": "GerenciadorDeProdutos.Web\\wwwroot\\js\\inputmask.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-13T20:24:14.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Web\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "GerenciadorDeProdutos.Web\\wwwroot\\js\\site.js",
@@ -164,8 +138,7 @@
               "RelativeToolTip": "GerenciadorDeProdutos.Web\\wwwroot\\js\\site.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-13T20:24:06.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T20:24:06.519Z"
             },
             {
               "$type": "Document",
@@ -173,55 +146,55 @@
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Do\\Entities\\Produto.cs",
               "RelativeDocumentMoniker": "GerenciadorDeProdutos.Do\\Entities\\Produto.cs",
-              "ToolTip": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Do\\Entities\\Produto.cs",
-              "RelativeToolTip": "GerenciadorDeProdutos.Do\\Entities\\Produto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Do\\Entities\\Produto.cs*",
+              "RelativeToolTip": "GerenciadorDeProdutos.Do\\Entities\\Produto.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-13T19:52:36.163Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ProdutoController.cs",
               "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Web\\Controllers\\ProdutoController.cs",
               "RelativeDocumentMoniker": "GerenciadorDeProdutos.Web\\Controllers\\ProdutoController.cs",
               "ToolTip": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Web\\Controllers\\ProdutoController.cs",
               "RelativeToolTip": "GerenciadorDeProdutos.Web\\Controllers\\ProdutoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAkwDAAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAEwF0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T17:11:56.621Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Web\\Views\\Produto\\Edit.cshtml",
               "RelativeDocumentMoniker": "GerenciadorDeProdutos.Web\\Views\\Produto\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Web\\Views\\Produto\\Edit.cshtml",
-              "RelativeToolTip": "GerenciadorDeProdutos.Web\\Views\\Produto\\Edit.cshtml",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCUAAAASAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Web\\Views\\Produto\\Edit.cshtml*",
+              "RelativeToolTip": "GerenciadorDeProdutos.Web\\Views\\Produto\\Edit.cshtml*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-12T17:27:07.087Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "ProdutoService.cs",
               "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Ap\\Services\\ProdutoService.cs",
               "RelativeDocumentMoniker": "GerenciadorDeProdutos.Ap\\Services\\ProdutoService.cs",
               "ToolTip": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Ap\\Services\\ProdutoService.cs",
               "RelativeToolTip": "GerenciadorDeProdutos.Ap\\Services\\ProdutoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAawAsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T16:06:51.442Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Web\\Views\\Produto\\Index.cshtml",
               "RelativeDocumentMoniker": "GerenciadorDeProdutos.Web\\Views\\Produto\\Index.cshtml",
@@ -229,12 +202,74 @@
               "RelativeToolTip": "GerenciadorDeProdutos.Web\\Views\\Produto\\Index.cshtml",
               "ViewState": "AgIAAEsAAAAAAAAAAAAAAGsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T18:05:03.448Z",
+              "WhenOpened": "2025-02-12T18:05:03.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Web\\Views\\Produto\\Create.cshtml",
+              "RelativeDocumentMoniker": "GerenciadorDeProdutos.Web\\Views\\Produto\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Web\\Views\\Produto\\Create.cshtml",
+              "RelativeToolTip": "GerenciadorDeProdutos.Web\\Views\\Produto\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T17:16:22.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
+              "Title": "20250214191430_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Infra\\Migrations\\20250214191430_Inicial.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeProdutos.Infra\\Migrations\\20250214191430_Inicial.cs",
+              "ToolTip": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Infra\\Migrations\\20250214191430_Inicial.cs",
+              "RelativeToolTip": "GerenciadorDeProdutos.Infra\\Migrations\\20250214191430_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T19:14:31.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Infra\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeProdutos.Infra\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Infra\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "GerenciadorDeProdutos.Infra\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:07:34.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "inputmask.js",
+              "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Web\\wwwroot\\js\\inputmask.js",
+              "RelativeDocumentMoniker": "GerenciadorDeProdutos.Web\\wwwroot\\js\\inputmask.js",
+              "ToolTip": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Web\\wwwroot\\js\\inputmask.js",
+              "RelativeToolTip": "GerenciadorDeProdutos.Web\\wwwroot\\js\\inputmask.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-13T20:24:14.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProdutoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Web\\Models\\ProdutoViewModel.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeProdutos.Web\\Models\\ProdutoViewModel.cs",
+              "ToolTip": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Web\\Models\\ProdutoViewModel.cs",
+              "RelativeToolTip": "GerenciadorDeProdutos.Web\\Models\\ProdutoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T20:35:08.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Web\\Views\\Produto\\Details.cshtml",
               "RelativeDocumentMoniker": "GerenciadorDeProdutos.Web\\Views\\Produto\\Details.cshtml",
@@ -242,12 +277,11 @@
               "RelativeToolTip": "GerenciadorDeProdutos.Web\\Views\\Produto\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T20:57:27.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T20:57:27.784Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "ProdutoRepository.cs",
               "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Infra\\Repositories\\ProdutoRepository.cs",
               "RelativeDocumentMoniker": "GerenciadorDeProdutos.Infra\\Repositories\\ProdutoRepository.cs",
@@ -255,25 +289,11 @@
               "RelativeToolTip": "GerenciadorDeProdutos.Infra\\Repositories\\ProdutoRepository.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAADwv10AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T16:10:26.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T16:10:26.42Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Web\\Views\\Produto\\Create.cshtml",
-              "RelativeDocumentMoniker": "GerenciadorDeProdutos.Web\\Views\\Produto\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Web\\Views\\Produto\\Create.cshtml",
-              "RelativeToolTip": "GerenciadorDeProdutos.Web\\Views\\Produto\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T17:16:22.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Web\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "GerenciadorDeProdutos.Web\\Views\\Home\\Index.cshtml",
@@ -285,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "icon-families.json",
               "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Web\\wwwroot\\fontawesome\\metadata\\icon-families.json",
               "RelativeDocumentMoniker": "GerenciadorDeProdutos.Web\\wwwroot\\fontawesome\\metadata\\icon-families.json",
@@ -297,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "GerenciadorDeProdutos.Web\\Views\\Shared\\_Layout.cshtml",
@@ -305,12 +325,11 @@
               "RelativeToolTip": "GerenciadorDeProdutos.Web\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T18:08:11.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T18:08:11.195Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Web\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "GerenciadorDeProdutos.Web\\Properties\\launchSettings.json",
@@ -322,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "icon-families.yml",
               "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Web\\wwwroot\\fontawesome\\metadata\\icon-families.yml",
               "RelativeDocumentMoniker": "GerenciadorDeProdutos.Web\\wwwroot\\fontawesome\\metadata\\icon-families.yml",
@@ -334,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "GerenciadorDeProdutos.Application.csproj",
               "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Ap\\GerenciadorDeProdutos.Application.csproj",
               "RelativeDocumentMoniker": "GerenciadorDeProdutos.Ap\\GerenciadorDeProdutos.Application.csproj",
@@ -346,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "icons.json",
               "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Web\\wwwroot\\fontawesome\\metadata\\icons.json",
               "RelativeDocumentMoniker": "GerenciadorDeProdutos.Web\\wwwroot\\fontawesome\\metadata\\icons.json",
@@ -358,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "icons.yml",
               "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Web\\wwwroot\\fontawesome\\metadata\\icons.yml",
               "RelativeDocumentMoniker": "GerenciadorDeProdutos.Web\\wwwroot\\fontawesome\\metadata\\icons.yml",
@@ -370,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "jquery.js",
               "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
               "RelativeDocumentMoniker": "GerenciadorDeProdutos.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
@@ -382,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "GerenciadorDeProdutos.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Do\\GerenciadorDeProdutos.Domain.csproj",
               "RelativeDocumentMoniker": "GerenciadorDeProdutos.Do\\GerenciadorDeProdutos.Domain.csproj",
@@ -394,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "GerenciadorDeProdutos.Infra.csproj",
               "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Infra\\GerenciadorDeProdutos.Infra.csproj",
               "RelativeDocumentMoniker": "GerenciadorDeProdutos.Infra\\GerenciadorDeProdutos.Infra.csproj",
@@ -406,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "GerenciadorDeProdutos.Infra.IoC.csproj",
               "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.IoC\\GerenciadorDeProdutos.Infra.IoC.csproj",
               "RelativeDocumentMoniker": "GerenciadorDeProdutos.IoC\\GerenciadorDeProdutos.Infra.IoC.csproj",
@@ -418,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "GerenciadorDeProdutos.Web.csproj",
               "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Web\\GerenciadorDeProdutos.Web.csproj",
               "RelativeDocumentMoniker": "GerenciadorDeProdutos.Web\\GerenciadorDeProdutos.Web.csproj",
@@ -430,19 +449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "20250212175621_InicialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Infra\\Migrations\\20250212175621_InicialCreate.cs",
-              "RelativeDocumentMoniker": "GerenciadorDeProdutos.Infra\\Migrations\\20250212175621_InicialCreate.cs",
-              "ToolTip": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Infra\\Migrations\\20250212175621_InicialCreate.cs",
-              "RelativeToolTip": "GerenciadorDeProdutos.Infra\\Migrations\\20250212175621_InicialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T17:56:22.351Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "GerenciadorDeProdutos.Web\\Controllers\\HomeController.cs",
@@ -454,7 +461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Web\\appsettings.json",
               "RelativeDocumentMoniker": "GerenciadorDeProdutos.Web\\appsettings.json",
@@ -466,7 +473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "InfrastructureException.cs",
               "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Infra\\Exceptions\\InfrastructureException.cs",
               "RelativeDocumentMoniker": "GerenciadorDeProdutos.Infra\\Exceptions\\InfrastructureException.cs",
@@ -475,18 +482,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T16:21:10.142Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Infra\\Context\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "GerenciadorDeProdutos.Infra\\Context\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Francyelle Azevedo\\GerenciadorDeProdutos\\GerenciadorDeProdutos\\GerenciadorDeProdutos.Infra\\Context\\ApplicationDbContext.cs",
-              "RelativeToolTip": "GerenciadorDeProdutos.Infra\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T16:07:34.07Z"
             }
           ]
         }

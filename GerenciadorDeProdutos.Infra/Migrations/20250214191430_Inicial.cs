@@ -5,7 +5,7 @@
 namespace GerenciadorDeProdutos.Infra.Migrations
 {
     /// <inheritdoc />
-    public partial class InicialCreate : Migration
+    public partial class Inicial : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -18,7 +18,7 @@ namespace GerenciadorDeProdutos.Infra.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Nome = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Descricao = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Preco = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
+                    Preco = table.Column<decimal>(type: "decimal(18,2)", precision: 18, scale: 2, nullable: false),
                     QuantidadeEstoque = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>

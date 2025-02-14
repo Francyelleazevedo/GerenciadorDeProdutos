@@ -13,3 +13,4 @@ C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\Gerencia
 C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Ap\obj\Debug\net8.0\refint\GerenciadorDeProdutos.Application.dll
 C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Ap\obj\Debug\net8.0\GerenciadorDeProdutos.Application.pdb
 C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Ap\obj\Debug\net8.0\ref\GerenciadorDeProdutos.Application.dll
+C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Ap\obj\Debug\net8.0\GerenciadorDeProdutos.Application.sourcelink.json
