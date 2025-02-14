@@ -1,0 +1,11 @@
+C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Do\bin\Debug\net8.0\GerenciadorDeProdutos.Domain.deps.json
+C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Do\bin\Debug\net8.0\GerenciadorDeProdutos.Domain.dll
+C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Do\bin\Debug\net8.0\GerenciadorDeProdutos.Domain.pdb
+C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Do\obj\Debug\net8.0\GerenciadorDeProdutos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Do\obj\Debug\net8.0\GerenciadorDeProdutos.Domain.AssemblyInfoInputs.cache
+C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Do\obj\Debug\net8.0\GerenciadorDeProdutos.Domain.AssemblyInfo.cs
+C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Do\obj\Debug\net8.0\GerenciadorDeProdutos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Do\obj\Debug\net8.0\GerenciadorDeProdutos.Domain.dll
+C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Do\obj\Debug\net8.0\refint\GerenciadorDeProdutos.Domain.dll
+C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Do\obj\Debug\net8.0\GerenciadorDeProdutos.Domain.pdb
+C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Do\obj\Debug\net8.0\ref\GerenciadorDeProdutos.Domain.dll

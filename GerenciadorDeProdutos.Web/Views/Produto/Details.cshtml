@@ -1,0 +1,46 @@
+﻿@model GerenciadorDeProdutos.Domain.Entities.Produto
+
+@{
+    ViewData["Title"] = "Detalhes do Produto";
+}
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-12">
+            <h2 class="fw-bold text-primary">@ViewData["Title"]</h2>
+            <hr />
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+            <h4 class="mb-3">Informações do Produto</h4>
+            <dl class="row">
+                <dt class="col-sm-3 fw-bold">
+                    <i class="fas fa-file-alt"></i> Nome do Produto
+                </dt>
+                <dd class="col-sm-9">@Model.Nome</dd>
+                <dt class="col-sm-3 fw-bold">
+                    <i class="fas fa-file-alt"></i> Descrição
+                </dt>
+                <dd class="col-sm-9">@Model.Descricao</dd>
+                <dt class="col-sm-3 fw-bold">
+                    <i class="fas fa-file-alt"></i> Preço
+                </dt>
+                <dd class="col-sm-9">@Model.Preco</dd>
+                <dt class="col-sm-3 fw-bold">
+                    <i class="fas fa-file-alt"></i> Quantidade
+                </dt>
+                <dd class="col-sm-9">@Model.QuantidadeEstoque</dd>
+            </dl>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12 d-flex justify-content-between">
+            <a asp-action="Index" class="btn btn-secondary">
+                <i class="fas fa-arrow-left"></i> Voltar
+            </a>
+        </div>
+    </div>
+</div>

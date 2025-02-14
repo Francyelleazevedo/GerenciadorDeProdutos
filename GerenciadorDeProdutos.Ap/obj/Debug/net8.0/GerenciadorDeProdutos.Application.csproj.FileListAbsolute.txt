@@ -1,0 +1,15 @@
+C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Ap\bin\Debug\net8.0\GerenciadorDeProdutos.Application.deps.json
+C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Ap\bin\Debug\net8.0\GerenciadorDeProdutos.Application.dll
+C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Ap\bin\Debug\net8.0\GerenciadorDeProdutos.Application.pdb
+C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Ap\bin\Debug\net8.0\GerenciadorDeProdutos.Domain.dll
+C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Ap\bin\Debug\net8.0\GerenciadorDeProdutos.Domain.pdb
+C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Ap\obj\Debug\net8.0\GerenciadorDeProdutos.Application.csproj.AssemblyReference.cache
+C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Ap\obj\Debug\net8.0\GerenciadorDeProdutos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Ap\obj\Debug\net8.0\GerenciadorDeProdutos.Application.AssemblyInfoInputs.cache
+C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Ap\obj\Debug\net8.0\GerenciadorDeProdutos.Application.AssemblyInfo.cs
+C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Ap\obj\Debug\net8.0\GerenciadorDeProdutos.Application.csproj.CoreCompileInputs.cache
+C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Ap\obj\Debug\net8.0\Gerencia.97B7E188.Up2Date
+C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Ap\obj\Debug\net8.0\GerenciadorDeProdutos.Application.dll
+C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Ap\obj\Debug\net8.0\refint\GerenciadorDeProdutos.Application.dll
+C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Ap\obj\Debug\net8.0\GerenciadorDeProdutos.Application.pdb
+C:\Users\Francyelle Azevedo\GerenciadorDeProdutos\GerenciadorDeProdutos\GerenciadorDeProdutos.Ap\obj\Debug\net8.0\ref\GerenciadorDeProdutos.Application.dll
